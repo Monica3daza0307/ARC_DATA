@@ -19,6 +19,16 @@
 }
 
 
+
+.stack-sans-headline-<uniquifier> {
+  font-family: "Stack Sans Headline", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+
 html{
      scroll-behavior: smooth;
 }
